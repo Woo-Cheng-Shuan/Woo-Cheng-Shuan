@@ -8,7 +8,7 @@ I'm learning to code for the first year, trying to master C++ language in this s
 
 * 🌍  I'm based in Selangor, Malaysia
 * ✉️  You can contact me at [chengshuan0221@gmail.com](mailto:chengshuan0221@gmail.com)
-* 🧠  I'm learning C++
+* 🧠  I'm learning C++, Discrete Sturcture, Digital Logic and Technology and Information System in first semester.
 
 ### Skills
 

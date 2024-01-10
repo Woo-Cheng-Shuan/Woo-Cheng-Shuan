@@ -6,8 +6,8 @@ Data Engineering 1st year student in UTM
 
 I'm learning to code for the first year, trying to master C++ language in this semester. The others language will be learn in up coming 3 years in school.
 
-* 🌍  I'm based in Selangor, Malaysia
-* ✉️  You can contact me at [chengshuan0221@gmail.com](mailto:chengshuan0221@gmail.com)
+* 🌍  Based in Selangor, Malaysia
+* ✉️  Contact me at [chengshuan0221@gmail.com](mailto:chengshuan0221@gmail.com)
 * 🧠  I'm learning C++, Discrete Sturcture, Digital Logic and Technology and Information System in first semester.
 
 ### Skills

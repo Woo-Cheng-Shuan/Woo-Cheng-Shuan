@@ -4,12 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Engineering 1st year student in UTM
 ----------------------------------------
 
-I'm learning to code for the first year, trying to master C++ language in this semester. The others language will be learn in up coming 3 years in school.
+Still a 'newbie' in programming field. 
 
 * 🌍  Based in Selangor, Malaysia
 * ✉️  Contact me at [chengshuan0221@gmail.com](mailto:chengshuan0221@gmail.com)
-* 🧠  I'm learning C++, Discrete Sturcture, Digital Logic and Technology and Information System in first semester.
-
+* 🧠  Going to survive 3 years in UTM and having a year internship afterwards.
 ### Skills
 
 

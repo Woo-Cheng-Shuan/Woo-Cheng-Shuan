@@ -1,4 +1,4 @@
-<p align="center"> Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Woo Cheng Shuan
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Woo Cheng Shuan
 =======================================================================================================================================
 
 ![Alt text](https://media1.tenor.com/images/11c5360a19960c9fe2d014f66c283b06/tenor.gif?itemid=17876456)
@@ -11,6 +11,7 @@ Still a 'newbie' in programming field.
 * 🌍  Based in Selangor, Malaysia
 * ✉️  Contact me at [chengshuan0221@gmail.com](mailto:chengshuan0221@gmail.com)
 * 🧠  Going to survive 3 years in UTM and having a year internship afterwards.
+</p>
 ### Skills
 
 

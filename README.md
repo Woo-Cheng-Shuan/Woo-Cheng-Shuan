@@ -2,7 +2,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =======================================================================================================================================
 
 <img align="right" alt="Waving" width=280px src="https://github.com/Woo-Cheng-Shuan/Woo-Cheng-Shuan/blob/main/cute.gif">
-![Alt text](https://media1.tenor.com/images/11c5360a19960c9fe2d014f66c283b06/tenor.gif?itemid=17876456)
 
 Data Engineering 1st year student in UTM
 ----------------------------------------

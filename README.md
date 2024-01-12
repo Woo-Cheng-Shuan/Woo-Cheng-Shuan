@@ -13,6 +13,31 @@ Still a 'newbie' in programming field.
 * 🧠  Going to survive 3 years in UTM and having a year internship afterwards.
 * 💼  Here is [my e-portfolio](https://woo-cheng-shuan.github.io/)
 </p>
+
+### Educations
+*  Primary school
+  * SJK(C)Kung Man (2011-2016)
+*  Secondary School
+  * SMK Seri Kembangan (2017-2021)
+*  Pre-University
+  * UTMSPACE KL - Foundation in Physical Science (2022-2023)
+*  University
+  * University Technology Malaysia - Bachelor Degree in Computer Science(Data Engineering) (2023-now)
+</p>
+
+### Position
+*  Committee Execution in Chinese Association (2018-2019)
+*  Committee IT department in Gendang 24 Musim club (2019-2020)
+*  Vice chairmain in Resource Centre Board (2019-2020)
+*  Chairman in resource Centre Board (2020-2021)
+
+</p>
+
+### Awards
+* Leadership awards (2021)
+
+</p>
+
 ### Skills
 
 

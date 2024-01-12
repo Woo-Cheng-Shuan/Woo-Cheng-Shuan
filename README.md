@@ -25,7 +25,7 @@ Still a 'newbie' in programming field.
 🧣 Committee Execution in Chinese Association (2018-2019) </p>
 🧣  Committee IT department in Gendang 24 Musim club (2019-2020) </p>
 🧣 Vice chairmain in Resource Centre Board (2019-2020) </p>
-🧣 Chairman in resource Centre Board (2020-2021)
+🧣 Chairman in Resource Centre Board (2020-2021)
 
 </p>
 

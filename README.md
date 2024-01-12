@@ -15,16 +15,16 @@ Still a 'newbie' in programming field.
 </p>
 
 ### Educations
-🎓  Primary school 🦋 SJK(C)Kung Man (2011-2016)
-🎓 Secondary School 🦋 SMK Seri Kembangan (2017-2021)
-🎓 Pre-University 🦋 UTMSPACE KL - Foundation in Physical Science (2022-2023)
-🎓  University 🦋 University Technology Malaysia - Bachelor Degree in Computer Science(Data Engineering) (2023-now)
+🎓  Primary school 🦋 SJK(C)Kung Man (2011-2016) </p>
+🎓 Secondary School 🦋 SMK Seri Kembangan (2017-2021) </p>
+🎓 Pre-University 🦋 UTMSPACE KL - Foundation in Physical Science (2022-2023) </p>
+🎓  University 🦋 University Technology Malaysia - Bachelor Degree in Computer Science(Data Engineering) (2023-now) 
 </p>
 
 ### Position
-🧣 Committee Execution in Chinese Association (2018-2019)
-🧣  Committee IT department in Gendang 24 Musim club (2019-2020)
-🧣 Vice chairmain in Resource Centre Board (2019-2020)
+🧣 Committee Execution in Chinese Association (2018-2019) </p>
+🧣  Committee IT department in Gendang 24 Musim club (2019-2020) </p>
+🧣 Vice chairmain in Resource Centre Board (2019-2020) </p>
 🧣 Chairman in resource Centre Board (2020-2021)
 
 </p>

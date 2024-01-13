@@ -18,7 +18,7 @@ Still a 'newbie' in programming field.
 🎓  Primary school 🦋 SJK(C)Kung Man (2011-2016) </p>
 🎓 Secondary School 🦋 SMK Seri Kembangan (2017-2021) </p>
 🎓 Pre-University 🦋 UTMSPACE KL - Foundation in Physical Science (2022-2023) </p>
-🎓  University 🦋 University Technology Malaysia - Bachelor Degree in Computer Science(Data Engineering) (2023-now) 
+🎓  University 🦋 University Technology Malaysia - Bachelor Degree in Computer Science(Data Engineering) (2023-present) 
 </p>
 
 ### Position

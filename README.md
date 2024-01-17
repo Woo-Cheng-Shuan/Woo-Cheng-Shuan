@@ -10,7 +10,7 @@ Still a 'newbie' in programming field.
 
 * 🌍  Based in Selangor, Malaysia
 * ✉️  Contact me at [chengshuan0221@gmail.com](mailto:chengshuan0221@gmail.com)
-* 🧠  Going to survive 3 years in UTM and having a year internship afterwards.
+* 🧠  Going to study 3 years in UTM and having a year internship afterwards.
 * 💼   Here is [my e-portfolio](https://woo-cheng-shuan.github.io/)
 </p>
 

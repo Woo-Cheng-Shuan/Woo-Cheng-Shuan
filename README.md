@@ -1,57 +1,86 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Woo Cheng Shuan
-=======================================================================================================================================
+<h1 align="center">
+  Hi 👋, I'm Woo Cheng Shuan
+</h1>
 
-<img align="right" alt="Waving" width=280px src="https://github.com/Woo-Cheng-Shuan/Woo-Cheng-Shuan/blob/main/cute.gif">
+<h3 align="center">
+  🚀 Data Engineering Student
+</h3>
 
-Data Engineering 3rd year student in UTM
-----------------------------------------
+---
 
-Still a 'newbie' in programming field. 
+## 👩‍💻 About Me
 
-* 🌍  Based in Selangor, Malaysia
-* ✉️  Contact me at [chengshuan0221@gmail.com](mailto:chengshuan0221@gmail.com)
-* 🧠  Going to study 3 years in UTM and having a year internship afterwards.
-* 💼   Here is [my e-portfolio](https://woo-cheng-shuan.github.io/)
+- 🌍 Based in **Selangor, Malaysia**
+- 🎓 Year 3 **Bachelor of Computer Science (Data Engineering)** student at *Universiti Teknologi Malaysia (UTM)*
+- 💡 Passionate about **Data Engineering, Machine Learning**
+- 📊 Interested in building **data pipelines and real-world analytics solutions**
+- ✉️ Contact me: **chengshuan0221@gmail.com**
+- 🎯 Currently improving skills in **data pipelines, and cloud technologies**
+- 🎬 Hobbies: Listening to music 🎧, diving 🌊, and sleeping 😆
+
+---
+
+## 🚀 Skills & Tools
+
+### 📊 Data Engineering & Data Science
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" />
 </p>
 
-### Educations
-🎓  Primary school 🦋 SJK(C)Kung Man (2011-2016) </p>
-🎓 Secondary School 🦋 SMK Seri Kembangan (2017-2021) </p>
-🎓 Pre-University 🦋 UTMSPACE KL - Foundation in Physical Science (2022-2023) </p>
-🎓  University 🦋 University Technology Malaysia - Bachelor Degree in Computer Science(Data Engineering) (2023-present) 
+### 💻 Development
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
 </p>
 
-### Position
-🧣 Committee Execution in Chinese Association (2018-2019) </p>
-🧣  Committee IT department in Gendang 24 Musim club (2019-2020) </p>
-🧣 Vice chairmain in Resource Centre Board (2019-2020) </p>
-🧣 Chairman in Resource Centre Board (2020-2021)
-
+### ☁️ Cloud & Tools
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="60"/>
 </p>
 
-### Awards
-🏆 Leadership awards (2021)
-
+### 🔤 Programming Languages
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem-640x400.jpg" width="50"/>
 </p>
 
-### Skills
+---
 
+## 📌 What I’m Working On
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+- 🔧 Building **data-driven projects** and strengthening my portfolio
+- 📚 Exploring **machine learning models & data pipelines**
+- ☁️ Learning more about **cloud-based data engineering (AWS)**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Woo-Cheng-Shuan&show_icons=true&theme=prussian" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Woo-Cheng-Shuan&theme=prussian" height="150" />
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/Woo-Cheng-Shuan">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/cheng-shuan-woo-08534329a/">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
+---
 
-### Socials
-
-<p align="left"> <a href="https://www.facebook.com/chengshuan.woo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Woo-Cheng-Shuan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/sshuan_0221" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/woo-chengshuan-08534329a/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Woo-Cheng-Shuan"><img src="https://github-readme-stats.vercel.app/api?username=Woo-Cheng-Shuan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Woo-Cheng-Shuan's GitHub stats" /></a>
-
-<a href="http://www.github.com/Woo-Cheng-Shuan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Woo-Cheng-Shuan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Woo-Cheng-Shuan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Woo-Cheng-Shuan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+⭐ *“Turning data into insights, and ideas into systems.”*

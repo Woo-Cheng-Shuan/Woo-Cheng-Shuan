@@ -3,61 +3,173 @@
 </h1>
 
 <h3 align="center">
-  🚀 Data Engineering Student
+  🚀 Data Engineering Student | Aspiring Data Professional
 </h3>
 
 ---
 
-## 👩‍💻 About Me
+## 👨‍💻 About Me
 
 - 🌍 Based in **Selangor, Malaysia**
-- 🎓 Year 3 **Bachelor of Computer Science (Data Engineering)** student at *Universiti Teknologi Malaysia (UTM)*
-- 💡 Passionate about **Data Engineering, Machine Learning**
-- 📊 Interested in building **data pipelines and real-world analytics solutions**
+- 🎓 Year 3 **Bachelor of Computer Science (Data Engineering)** student at **Universiti Teknologi Malaysia (UTM)**
+- 📈 Current CGPA: **3.93**
+- 💡 Passionate about **Data Engineering, Business Intelligence, Data Analytics, and Cloud Technologies**
+- 📊 Interested in building **data pipelines, analytics dashboards, and data-driven solutions**
+- ☁️ Currently exploring **Azure Data Engineering, Apache Spark, Snowflake, and dbt**
 - ✉️ Contact me: **chengshuan0221@gmail.com**
-- 🎯 Currently improving skills in **data pipelines, and cloud technologies**
+- 🌐 Portfolio: **[My Academic & Project Portfolio](https://woo-cheng-shuan.github.io/)**
 - 🎬 Hobbies: Listening to music 🎧, diving 🌊, and sleeping 😆
 
 ---
 
 ## 🚀 Skills & Tools
 
-### 📊 Data Engineering & Data Science
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" />
-</p>
+### 📊 Data Engineering & Analytics
 
-### 💻 Development
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-</p>
-
-### ☁️ Cloud & Tools
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="60"/>
-</p>
-
-### 🔤 Programming Languages
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem-640x400.jpg" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" width="40"/>
+  <img src="https://spark.apache.org/images/spark-logo-trademark.png" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/powerbi/powerbi-icon.svg" width="40"/>
 </p>
+
+**Technologies**
+- Apache Spark
+- Pandas
+- Dask
+- Polars
+- Power BI
+- Alteryx
+- Microsoft Excel
 
 ---
 
-## 📌 What I’m Working On
+### ☁️ Cloud & Data Platforms
 
-- 🔧 Building **data-driven projects** and strengthening my portfolio
-- 📚 Exploring **machine learning models & data pipelines**
-- ☁️ Learning more about **cloud-based data engineering (AWS)**
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="60"/>
+</p>
+
+**Technologies**
+- Microsoft Azure
+- Azure Data Factory
+- Azure Databricks
+- Azure Synapse Analytics
+- Azure Data Lake Storage
+- Snowflake
+- dbt
+- Docker
+
+---
+
+### 🗄️ Database Technologies
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50"/>
+</p>
+
+**Experience With**
+- MySQL
+- MongoDB
+- SQL
+- Database Design
+- ERD Modelling
+- Data Modelling
+- Query Optimization
+
+---
+
+### 📱 Application Development
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+</p>
+
+**Technologies**
+- Flutter
+- HTML
+- CSS
+- JavaScript
+- Figma
+- UI/UX Design
+
+---
+
+### 💻 Programming Languages
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+</p>
+
+**Languages**
+- Python
+- Java
+- C++
+
+---
+
+### 🏗️ System Analysis & Design
+
+- Software Engineering
+- Enterprise Architecture
+- UML Modelling
+- Use Case Diagram
+- Activity Diagram
+- Sequence Diagram
+- System Documentation
+- Requirements Analysis
+- Waterfall SDLC
+
+---
+
+### 🤝 Professional Skills
+
+- Problem Solving
+- Data Analysis
+- Critical Thinking
+- Teamwork
+- Communication
+- Leadership
+- Adaptability
+- Time Management
+- Project Management
+
+---
+
+## 📌 Featured Projects
+
+### 🏭 PPG Inventory Risk Management Dashboard
+- Built an end-to-end data engineering solution using Azure Data Factory, Databricks, Synapse Analytics, and Power BI.
+- Developed dashboards for inventory risk monitoring and business decision-making.
+
+### ✈️ Flight Delay Analysis Dashboard
+- Analyzed over 7 million flight records using business intelligence techniques.
+- Built interactive Power BI dashboards to identify delay patterns and operational bottlenecks.
+
+### 🏛️ KADA Management System
+- Developed modules for member registration, loan application, approval workflows, and reporting.
+- Designed database structures, system documentation, and testing activities.
+
+### 🎓 UTHM Subject Registration Enhancement System
+- Designed Enterprise Architecture and UML models for academic workflow improvements.
+- Developed UI/UX prototypes and system architecture documentation.
+
+---
+
+## 📊 What I'm Currently Learning
+
+- ☁️ Azure Data Engineering
+- ⚡ Apache Spark
+- ❄️ Snowflake & dbt
+- 📊 Advanced Business Intelligence
+- 🤖 Machine Learning Fundamentals
 
 ---
 
@@ -83,4 +195,10 @@
 
 ---
 
-⭐ *“Turning data into insights, and ideas into systems.”*
+## 🎯 Career Goal
+
+To build a career at the intersection of business and technology by leveraging enterprise systems, data analytics, and digital solutions to improve business processes and support data-driven decision-making. I aspire to grow into a professional who can bridge business requirements and technical solutions while contributing to organizational transformation and innovation.
+
+---
+
+⭐ *"Turning data into insights, and ideas into systems."*

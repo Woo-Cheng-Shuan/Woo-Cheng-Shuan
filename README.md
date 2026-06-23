@@ -129,6 +129,15 @@
 
 ---
 
+## 🏆 Professional Certifications
+
+- ☁️ **Microsoft Certified: Azure Data Fundamentals (DP-900)**
+- ☁️ **AWS Academy Cloud Foundations**
+- 📊 **Alteryx Designer Core Certification**
+- ☁️ **AWS Academy Cloud Developing**
+
+---
+
 ### 🤝 Professional Skills
 
 - Problem Solving

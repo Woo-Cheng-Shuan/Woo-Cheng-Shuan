@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 Data Engineering Student | Aspiring Data Professional
+  🚀 Data Engineering Student
 </h3>
 
 ---
